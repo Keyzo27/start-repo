@@ -1,0 +1,5 @@
+To do list
+- Menguasai HTML, CS, JS
+- Belajar PHP
+- Belajar React
+- Bisa membuat web lebih bagus lagi
